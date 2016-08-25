@@ -1,0 +1,20 @@
+.green {
+  margin: 10px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: green;
+
+}
+
+.blue {
+  margin: 10px;
+  border: 2px solid blue;
+  padding: 4px;
+  background-color: grey;
+  float: right;
+}
+
+strong {
+  background-color: grey;
+  font-size: 25px;
+}
